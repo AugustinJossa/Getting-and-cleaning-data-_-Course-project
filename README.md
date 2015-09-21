@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data-_-Course-project
-This repo is for the evaluation of this course project 
+This repo is for the evaluation of the Coursera's "Getting and Cleaning Data class" course project 
 
 ##The program will :
 - Download a zip file in your working directory: getdata_dataset
