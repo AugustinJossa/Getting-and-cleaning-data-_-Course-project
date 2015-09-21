@@ -7,7 +7,7 @@
 5 STANDING
 6 LAYING
 
-###Features
+###Measured features
 "tBodyAccMeanX"                "tBodyAccMeanY"                "tBodyAccMeanZ"               
 "tBodyAccStdX"                 "tBodyAccStdY"                 "tBodyAccStdZ"                
 "tGravityAccMeanX"             "tGravityAccMeanY"             "tGravityAccMeanZ"            
