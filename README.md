@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data-_-Course-project
 This repo is for the evaluation of this course project 
 
-The program will :
+##The program will :
 - download a zip file in your working directory: getdata_dataset
 - extract the content of the zip file in your working directory : UCI HAR Dataset
 - create a text file with the tidy data in your working directory : tidy.file
