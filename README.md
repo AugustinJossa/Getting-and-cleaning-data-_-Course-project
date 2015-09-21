@@ -7,3 +7,4 @@ This repo is for the evaluation of this course project
 3. select only the mean and standard deviation
 4. format the features
 5. create a single database
+6. generate a tidy.txt file with our tidy data
