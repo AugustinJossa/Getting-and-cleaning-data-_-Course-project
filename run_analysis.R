@@ -1,7 +1,7 @@
 library(reshape2)
 library(data.table)
 
-#Download the dataset
+# Download the dataset
 filename <- "getdata_dataset.zip"
 if (!file.exists(filename)){
     fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "
@@ -24,7 +24,7 @@ features_ok <- grep(".*mean.*|.*std.*", features[,2])
 features_ok.names <- features[features_ok,2]
 
 
-#Format features
+# Format features
 features_ok.names = gsub('-mean', 'Mean', features_ok.names)
 features_ok.names = gsub('-std', 'Std', features_ok.names)
 features_ok.names <- gsub('[-()]', '', features_ok.names)
